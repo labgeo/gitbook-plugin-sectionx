@@ -93,7 +93,7 @@ module.exports = {
                                 '</div>');
 
                             if ($(this).data('show') === false)
-                                $(this).find('.panel').addClass('hidden');
+                                $(this).find('.panel-collapse').addClass('collapse');
                             else
                                 $(this).find('.panel-collapse').addClass('in');
                         });
