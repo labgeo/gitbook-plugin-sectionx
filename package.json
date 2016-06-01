@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-plugin-sectionx",
+    "name": "gitbook-plugin-sectionx-collapse",
     "description": "A GitBook plugin for separating the page into sections.",
     "main": "index.js",
     "version": "2.0.1",
@@ -10,13 +10,13 @@
     "dependencies": {
         "cheerio": "*"
     },
-    "homepage": "https://github.com/ymcatar/gitbook-plugin-sectionx",
+    "homepage": "https://github.com/labgeo/gitbook-plugin-sectionx-collapse",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx.git"
+        "url": "https://github.com/labgeo/gitbook-plugin-sectionx-collapse.git"
     },
     "license": "Apache 2",
     "bugs": {
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx/issues"
+        "url": "https://github.com/labgeo/gitbook-plugin-sectionx-collapse/issues"
     }
 }
