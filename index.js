@@ -95,7 +95,7 @@ module.exports = {
                             if ($(this).data('show') === false)
                                 $(this).find('.panel-collapse').addClass('collapse');
                             else
-                                $(this).find('.panel-collapse').addClass('in');
+                                $(this).find('.panel-collapse').addClass('collapse');
                         });
                     } else
                         $('sec').each(function() {
