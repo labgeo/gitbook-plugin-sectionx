@@ -83,7 +83,7 @@ module.exports = {
                                         '<h2>' +
                                         $(this).data('title') +
                                         '<a class="pull-right section atTitle btn btn-default" target=' + $(this).data('id') + '>' +
-                                            '<span class="fa fa-angle-up" />' +
+                                            '<span class="fa fa-angle-down" />' +
                                         '</a>' +
                                         '</h2>' +
                                     '</div>' +
