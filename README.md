@@ -6,7 +6,7 @@ You can see it at work here: [Click here](http://ymcatar.gitbooks.io/gitbook-tes
 
 ## Changelog
 
-**2.0.1:**: Fixed CSS problem, upgraded to latest bootstrap and simplified code.
+**2.0.3:**: Change default collapse behaviour item
 
 ## How to use section?
 
